@@ -74,7 +74,7 @@ The trained model achieved an accuracy of 82% in predicting the genre of Bengali
 4. Refer to the generated visualizations and evaluation metrics for insights into model performance.
 
 ## Contributors
-- [Your Name]
+- Raiyan Zannat
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
